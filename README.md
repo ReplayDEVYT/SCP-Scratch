@@ -8,4 +8,5 @@ This is the documentation and project page for Official_IDEP_art's Light contain
 
 # Code
 For the remake game's link, go to: https://scratch.mit.edu/projects/744644711/
-**If you download the file here, you will get much less traction, as it will not count as a remix.**
+
+**If you download the file on github, you will get much less traction, as it will not count as a remix.**
